@@ -1,5 +1,5 @@
 import sketch from 'sketch'
-// documentation: https://developer.sketchapp.com/reference/api/
+// documentation: https://developer.sketchapp.com/reference/api/ test
 
 export default function() {
   var t = PROSketchBootstrap.documentKey(context.document);
